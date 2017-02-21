@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_pause_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_pause_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_previous_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_previous_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\app.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_lock_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_lock_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_aspect_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_aspect_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_next_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_next_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_crop_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_crop_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_zoom_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_zoom_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_full_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_full_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_realsize_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_realsize_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_compact_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_compact_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_play_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_play_ldpi.png"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\player_screen_stretch_ldpi.png",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\drawable-ldpi\\player_screen_stretch_ldpi.png"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-normal-ldpi-v4\\values-normal-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 61,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 71,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 78,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 78,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 61,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 61,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 71,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 71,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 77,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\values-normal-ldpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 77,
+                        "endOffset": 448
+                    }
+                }
+            }
+        ]
+    }
+]

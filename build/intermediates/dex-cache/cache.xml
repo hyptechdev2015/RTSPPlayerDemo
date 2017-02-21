@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90798cea379a489713ec6319bd0c5fb17f0f4edf">
+        <dex dex="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e2dcb86874c97bc6eff65dbe3136b684a6b0422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_c5c96499a157930d30a1c1bab6f789fb13d6064f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_67673b98c880cceec461ee4ec88be80cb70b8e40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\libs\mediaplayersdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db1013aa982a290ff9fa3fb477b91180fca42d4a">
+        <dex dex="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\mediaplayersdk_7fe795f9d41b8da2e8b2129755377d33c94e9cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5733abc96d8699495adca29f2ac73df237e883d0">
+        <dex dex="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8f1f3bafe0b3887c2b8e0dc563e5118b918b0a1\classes.dex" />
+    </item>
+
+</items>

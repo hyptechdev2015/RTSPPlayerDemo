@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playersnames.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\playersnames.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_control.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\player_control.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player_locked.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\player_locked.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_no_preview.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\dialog_no_preview.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_row_doc.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\item_row_doc.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cameras2x2con.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout\\cameras2x2con.xml"
+    }
+]

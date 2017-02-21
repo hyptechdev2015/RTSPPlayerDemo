@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-mdpi-v4\\player_control_large_port_mdpi.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout-large-port-mdpi\\player_control_large_port_mdpi.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-mdpi-v4\\activity_main.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout-large-port-mdpi\\activity_main.xml"
+    }
+]

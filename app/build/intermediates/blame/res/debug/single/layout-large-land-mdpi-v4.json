@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-mdpi-v4\\activity_main.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout-large-land-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-mdpi-v4\\player_control_large_land_mdpi.xml",
+        "source": "D:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\src\\main\\res\\layout-large-land-mdpi\\player_control_large_land_mdpi.xml"
+    }
+]

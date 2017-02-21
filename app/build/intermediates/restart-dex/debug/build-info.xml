@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="334111104624079"
+    token="-5443035960942591848"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1399" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1236" />
+    <task
+        name="verifier"
+        duration="518" />
+
+    <artifact
+        location="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="334111104624079"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\PROJECTS\KEVIN\AndroidStudioProjects\DEMO\RTSPPlayerDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

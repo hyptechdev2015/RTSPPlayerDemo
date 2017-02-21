@@ -1,0 +1,7 @@
+#Tue Feb 21 12:56:00 PST 2017
+base.0=D\:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5e2dcb86874c97bc6eff65dbe3136b684a6b0422
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a8f1f3bafe0b3887c2b8e0dc563e5118b918b0a1\\classes.dex
+base.1=D\:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a8f1f3bafe0b3887c2b8e0dc563e5118b918b0a1
+file.0=D\:\\PROJECTS\\KEVIN\\AndroidStudioProjects\\DEMO\\RTSPPlayerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5e2dcb86874c97bc6eff65dbe3136b684a6b0422\\classes.dex
