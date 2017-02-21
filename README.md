@@ -1,4 +1,6 @@
 # RTSPPlayerDemo
-minor from https://github.com/VideoExpertsGroup/RTSPPlayer, coding learning
+Minor from https://github.com/VideoExpertsGroup/RTSPPlayer
 
-https://github.com/VideoExpertsGroup/RTSPPlayer, coding learning
+Project gradle for Android Studion, coding learning purposes
+
+
